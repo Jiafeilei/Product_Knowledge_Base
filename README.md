@@ -25,10 +25,12 @@ Product_Knowledge_Base/
 |---|---|---|
 | 产品知识（描述/参数/兼容性） | Markdown | ✅ 本仓库 |
 | SKU 规格结构（颜色/尺码组合） | Markdown | ✅ 本仓库 |
-| 价格 / 库存 | MySQL | ❌ 不入仓库 |
+| 内部采购价（跨平台固定、时间范围内固定） | MySQL | ❌ 不入仓库 |
+| 货号映射（内部货号 + 平台链接货号） | MySQL（预留） | ❌ 不入仓库 |
 | 图片 | 对象存储（预留） | ❌ 本期不采，字段预留 |
 
-价格/库存经 `product_id + sku_code` 与 Markdown 关联，存在 MySQL，不入本仓库。
+采购价经 `product_id` 关联，存在 MySQL `product_purchase_price` 表（库存不存）。
+货号映射预留 `product_articles` 表：`RC1-1`（内部标准货号）与 `RC1-1 / RC1-1_2026 / RC1-1_202601`（平台链接货号）是同一商品的不同上架货号。
 
 ## 规范速查
 
