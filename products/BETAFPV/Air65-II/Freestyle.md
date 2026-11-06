@@ -6,7 +6,7 @@ variant: Freestyle
 category: Brushless Whoop Quadcopter
 source_url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 source_platform: brand
-collected_at: '2026-11-07T02:06:26+08:00'
+collected_at: '2026-11-07T02:40:37+08:00'
 status: unverified
 confidence: 0.95
 specifications:
@@ -14,7 +14,7 @@ specifications:
     value: 17.8
     unit: g
   Frame: Air65 II
-  Antenna: ''
+  Antenna: Copper pipe
   Wheelbase:
     value: 65
     unit: mm
@@ -24,51 +24,51 @@ specifications:
   VTX: Onboard 5.8G 25mw~400mw
   RX: Onboard Serial ELRS 2.4G
   Camera: C03
-  Motors: Freestyle 0702 (25000KV) brass bushings
+  Motors: Freestyle 0702 (25000KV) - brass bushings
   Motor Connection: JST1.25 3Pin connector
   Props: GF 1219S 3-B
-  Flight Time (LAVA II 1S 320mAh): '5:00'
+  Flight Time (with LAVA II 1S 320mAh Batt): '5:00'
   Battery Connector: BT2.0 U Cable Pigtail
   Recommended Battery: LAVA II 1S 280mAh/320mAh
 skus:
 - sku_code: BETAFPV-Air65-II-Freestyle
   attributes:
-    version: Freestyle
+    Propulsion System: Freestyle
 sources:
 - type: official
   url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 tags:
-- whoop
 - 1S
-- brushless
-- freestyle
-- cinematic
+- Brushless
+- Whoop
+- FPV
+- Freestyle
 ---
 # BETAFPV Air65 II Freestyle
 
 ## 产品介绍
 
-Engineered for the next generation of 1S performance, the Air65 II redefines the balance of power and resilience. At its core, a specialized propulsion system offers three distinct configurations—Champion, Racing, and Freestyle—each tuned with specific motor and propeller combinations for optimized thrust, response, and control. Built to deliver relentless performance in every flying style, the Air65 II is the ultralight whoop designed to dominate.
+Engineered for the next generation of 1S performance, the Air65 II redefines the balance of power and resilience. At its core, a specialized propulsion system offers three distinct configurations—Champion, Racing, and Freestyle—each tuned with specific motor and propeller combinations for optimized thrust, response, and control. This precision-tuned power is matched by a rugged, purpose-built design, featuring the durable Matrix 5IN1 II Flight Controller with a high-output 12A ESC and a reinforced frame & canopy crafted to withstand repeated impacts. Built to deliver relentless performance in every flying style, the Air65 II is the ultralight whoop designed to dominate.
 
 ## 技术参数
 
-| Parameter | Freestyle |
-| Weight | 17.8g |
-| Frame | Air65 II |
-| Antenna | |
-| Wheelbase | 65mm |
-| Canopy | Air II Canopy |
-| FC | Matrix 1S 5IN1 II |
-| ESC | 1S 12A |
-| VTX | Onboard 5.8G 25mw~400mw |
-| RX | Onboard Serial ELRS 2.4G |
-| Camera | C03 |
-| Motors | Freestyle 0702 (25000KV) brass bushings |
-| Motor Connection | JST1.25 3Pin connector |
-| Props | GF 1219S 3-B |
-| Flight Time (LAVA II 1S 320mAh) | 5:00 |
-| Battery Connector | BT2.0 U Cable Pigtail |
-| Recommended Battery | LAVA II 1S 280mAh/320mAh |
+Champion | Racing | Freestyle
+Weight | 16.6g | 17.7g | 17.8g
+Frame | Air65 Champion | Air65 II
+Antenna | Whip | Copper pipe
+Wheelbase | 65mm
+Canopy | Air II Canopy
+FC | Matrix 1S 5IN1 II
+ESC | 1S 12A
+VTX | Onboard 5.8G 25mw~400mw
+RX | Onboard Serial ELRS 2.4G
+Camera | C03
+Motors | Champion 0702 (36000KV) - dual-ball bearings | Racing 0702 (30000KV) - brass bushings | Freestyle 0702 (25000KV) - brass bushings
+Motor Connection | Soldering | JST1.25 3Pin connector | JST1.25 3Pin connector
+Props | GF 1207 3-B | GF 1207 3-B | GF 1219S 3-B
+Flight Time (with LAVA II 1S 320mAh Batt) | 4:40 | 4:30 | 5:00
+Battery Connector | BT2.0 U Cable Pigtail
+Recommended Battery | LAVA II 1S 280mAh/320mAh
 
 ## 包装清单
 
@@ -84,8 +84,8 @@ Engineered for the next generation of 1S performance, the Air65 II redefines the
 
 ## 兼容性 / 注意事项
 
-Note: Due to the shortage of IMU chip ICM42688, BETAFPV team has found new IMU chips including ICM42622, BMI270, and LSM6DSK320X, and built compatible firmwares.
+Note: Due to the shortage of IMU chip ICM42688, BETAFPV team has found new IMU chips including ICM42622, BMI270, and LSM6DSK320X, and built compatible firmwares. Extensive testing confirms they all meet our strict quality standards. Betaflight has not yet released official firmwares compatible with some of the IMU chips, so please do not flash the official Betaflight firmware and pay attention to future support updates.
 
 ## 官方资料
 
-https://support.betafpv.com/hc/en-us/articles/54654422544409
+https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
