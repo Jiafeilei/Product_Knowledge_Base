@@ -4,9 +4,9 @@ brand: BETAFPV
 model: Air65 II
 variant: Racing
 category: Brushless Whoop Quadcopter
-source_url: /tmp/air65.md
+source_url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 source_platform: brand
-collected_at: '2026-11-07T01:11:51+08:00'
+collected_at: '2026-11-07T01:14:08+08:00'
 status: unverified
 confidence: 0.95
 specifications:
@@ -31,23 +31,23 @@ specifications:
   Battery Connector: BT2.0 U Cable Pigtail
   Recommended Battery: LAVA II 1S 280mAh/320mAh
 skus:
-- sku_code: Air65II-Racing
+- sku_code: Air65-II-Racing
   attributes:
-    variant: Racing
+    version: Racing
 sources:
 - type: official
-  url: /tmp/air65.md
+  url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 tags:
 - whoop
-- brushless
 - 1S
+- brushless
 - racing
 ---
 # BETAFPV Air65 II Racing
 
 ## 产品介绍
 
-The Racing version features Racing 0702 Motors (30000KV) paired with GF 1207 3-Blade Props.
+Engineered for the next generation of 1S performance, the Air65 II redefines the balance of power and resilience. At its core, a specialized propulsion system offers three distinct configurations—Champion, Racing, and Freestyle—each tuned with specific motor and propeller combinations for optimized thrust, response, and control. Built to deliver relentless performance in every flying style, the Air65 II is the ultralight whoop designed to dominate.
 
 ## 技术参数
 

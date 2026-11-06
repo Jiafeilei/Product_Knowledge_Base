@@ -4,9 +4,9 @@ brand: BETAFPV
 model: Air65 II
 variant: Champion
 category: Brushless Whoop Quadcopter
-source_url: /tmp/air65.md
+source_url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 source_platform: brand
-collected_at: '2026-11-07T01:11:51+08:00'
+collected_at: '2026-11-07T01:14:08+08:00'
 status: unverified
 confidence: 0.95
 specifications:
@@ -32,16 +32,16 @@ specifications:
   Recommended Battery: LAVA II 1S 280mAh/320mAh
   Thrust-to-Weight Ratio: 6.3:1
 skus:
-- sku_code: Air65II-Champion
+- sku_code: Air65-II-Champion
   attributes:
-    variant: Champion
+    version: Champion
 sources:
 - type: official
-  url: /tmp/air65.md
+  url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 tags:
 - whoop
-- brushless
 - 1S
+- brushless
 - racing
 - champion
 ---
@@ -49,7 +49,7 @@ tags:
 
 ## 产品介绍
 
-The Champion version returns as the flagship model, built for pure, professional-grade racing. Weighing only 16.6g, it features the exclusive 2.20g Air65 Champion Frame and the unsoldered Matrix 5IN1 II FC. Equipped with dual-ball bearing Champion 0702 Motors (36000KV) and lightweight GF 1207 3-Blade Props, it achieves an impressive 6.3:1 thrust-to-weight ratio.
+Engineered for the next generation of 1S performance, the Air65 II redefines the balance of power and resilience. At its core, a specialized propulsion system offers three distinct configurations—Champion, Racing, and Freestyle—each tuned with specific motor and propeller combinations for optimized thrust, response, and control. Built to deliver relentless performance in every flying style, the Air65 II is the ultralight whoop designed to dominate.
 
 ## 技术参数
 
