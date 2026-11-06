@@ -30,7 +30,7 @@
 
 | 字段 | 类型 | 说明 | 示例 |
 |---|---|---|---|
-| `product_id` | string | 全局唯一 ID，格式 `{品牌缩写}-{型号}-{版本}` | `BF-A65-C` |
+| `product_id` | string | 全局唯一 ID，18 位随机字母数字（系统生成，与品牌/型号无关） | `euZM9595HDlTKO7gUq` |
 | `brand` | string | 品牌名（自动识别 + 人工确认） | `BETAFPV` |
 | `model` | string | 型号 | `Air65 II` |
 | `variant` | string | 版本/SKU 变体名 | `Champion` |
@@ -43,6 +43,7 @@
 
 | 字段 | 类型 | 说明 | 示例 |
 |---|---|---|---|
+| `sku` | string | 内部货号（发链接时附带，如「@bot RC1-1 <链接>」） | `RC1-1` |
 | `category` | string | AI 归一分类 | `micro-whoop` |
 | `collected_by` | string | 采集人昵称 | `运营A` |
 | `confidence` | float | 识别置信度 0–1 | `0.92` |
