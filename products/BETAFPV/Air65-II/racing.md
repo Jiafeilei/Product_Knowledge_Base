@@ -6,7 +6,7 @@ variant: Racing
 category: Brushless Whoop Quadcopter
 source_url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 source_platform: brand
-collected_at: '2026-11-07T01:14:08+08:00'
+collected_at: '2026-11-07T01:41:10+08:00'
 status: unverified
 confidence: 0.95
 specifications:
@@ -31,7 +31,7 @@ specifications:
   Battery Connector: BT2.0 U Cable Pigtail
   Recommended Battery: LAVA II 1S 280mAh/320mAh
 skus:
-- sku_code: Air65-II-Racing
+- sku_code: BETAFPV-Air65-II-Racing
   attributes:
     version: Racing
 sources:
