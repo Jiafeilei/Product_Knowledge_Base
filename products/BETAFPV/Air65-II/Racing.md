@@ -6,7 +6,7 @@ variant: Racing
 category: Brushless Whoop Quadcopter
 source_url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 source_platform: brand
-collected_at: '2026-11-07T02:40:37+08:00'
+collected_at: '2026-11-07T02:42:07+08:00'
 status: unverified
 confidence: 0.95
 specifications:
@@ -38,10 +38,10 @@ sources:
 - type: official
   url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 tags:
-- 1S
-- Brushless
-- Whoop
 - FPV
+- Whoop
+- Brushless
+- 1S
 - Racing
 ---
 # BETAFPV Air65 II Racing
