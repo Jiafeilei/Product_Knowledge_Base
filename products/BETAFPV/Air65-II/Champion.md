@@ -13,10 +13,10 @@ confidence: 0.95
 specifications:
   Weight:
     value: 16.6
+    unit: g
   Length: 83mm 
   Width: 83mm
   Height: 32mm
-    unit: g
   Frame: Air65 Champion
   Antenna: Whip
   Wheelbase:
