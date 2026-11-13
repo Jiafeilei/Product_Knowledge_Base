@@ -12,6 +12,9 @@ collected_by: workbuddy
 confidence: 0.6
 specifications:
   Weight: 16.6g
+  Length: 83mm 
+  Width: 83mm
+  Height: 32mm
   Frame: Air65 Champion
   Antenna: Whip
   Wheelbase: 65mm
