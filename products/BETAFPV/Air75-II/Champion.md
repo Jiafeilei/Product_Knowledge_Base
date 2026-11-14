@@ -1,5 +1,6 @@
 ---
 product_id: 7HqPCzcNlirH5xFHch
+sku_code: 7HqPCzcNlirH5xFHch-01
 brand: BETAFPV
 model: Air75 II
 variant: Champion
@@ -27,16 +28,6 @@ specifications:
   Flight Time (with LAVA II 1S 480mAh Batt): '6:50'
   Battery Connector: BT2.0 U Cable Pigtail
   Recommended Battery: LAVA II 1S 480mAh/580mAh
-skus:
-- sku_code: 7HqPCzcNlirH5xFHch-01
-  attributes:
-    Propulsion System: Champion
-- sku_code: 7HqPCzcNlirH5xFHch-02
-  attributes:
-    Propulsion System: Racing
-- sku_code: 7HqPCzcNlirH5xFHch-03
-  attributes:
-    Propulsion System: Freestyle
 sources:
 - type: official
   url: https://betafpv.com/products/air75-ii-brushless-whoop-quadcopter
@@ -104,16 +95,6 @@ Learn more about the poll: https://www.facebook.com/groups/tinywhoop/posts/42929
 
 To develop an effective solution, our R&D team evaluated multiple design approaches. Tests indicated that removing a rubber grommet could significantly improve impact protection. To validate this finding, we executed a systematic crash test protocol, comparing the new configuration directly against previous designs.
 
-- Air Whoops Tested:
-
-- Air65 (Air 5IN1 FC): With 4 rubber grommets.
-
-- Air65 (Air 5IN1 FC): With the front rubber grommet removed.
-
-- Air65 II (Matrix 1S 5IN1 II): With the front rubber grommet removed.
-
-- Air75 II (Matrix 1S 5IN1 II): With the front rubber grommet removed.
-
 - Method:
 
 Each unit was accelerated 5 meters in a straight line at level flight throttle and crashed horizontally into a wall. Image transmission, OSD, and receiver signals were monitored after each impact. The test concluded after 20 crashes or upon observed failure.
@@ -150,11 +131,11 @@ Every component, from the motor and propeller combination to the flight controll
 
 ### File
 
-- Download the CLI and Firmware for the Air75 II Champion/Racing/Freestyle
+- Download the CLI and Firmware for the Air75 II Champion
 
 ### Package
 
-- 1 * Air75 II Brushless Whoop Quadcopter | Champion/Racing/Freestyle
+- 1 * Air75 II Brushless Whoop Quadcopter Champion
 
 - 4 * GF 1614 3-B Props
 
