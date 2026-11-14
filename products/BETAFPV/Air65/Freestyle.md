@@ -1,5 +1,6 @@
 ---
 product_id: AuTGAR3wGtwe7XzB24
+sku_code: AuTGAR3wGtwe7XzB24-03
 brand: BETAFPV
 model: Air65
 variant: Freestyle
@@ -25,16 +26,6 @@ specifications:
   Flight Time (4.35V-3.3V): 4min (LAVA 260mAh)
   RX Version: Onboard ELRS 2.4G RX
   Motor Screws: PEEK screws
-skus:
-- sku_code: AuTGAR3wGtwe7XzB24-01
-  attributes:
-    Propulsion System: Racing
-- sku_code: AuTGAR3wGtwe7XzB24-02
-  attributes:
-    Propulsion System: Freestyle
-- sku_code: AuTGAR3wGtwe7XzB24-03
-  attributes:
-    Propulsion System: Champion (Limited Version)
 sources:
 - type: official
   url: https://betafpv.com/products/air65-brushless-whoop-quadcopter
