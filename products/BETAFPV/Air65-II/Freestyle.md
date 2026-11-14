@@ -11,10 +11,10 @@ collected_at: '2026-11-07T03:17:31+08:00'
 status: unverified
 confidence: 0.95
 specifications:
-  Length: 90mm
-  Width: 90mm
-  Height: 40mm
-  Weight: 250g
+  Length: 90 mm
+  Width: 90 mm
+  Height: 40 mm
+  Weight: 250 g
   Frame: Air65 II
   Antenna: Copper pipe
   Wheelbase:
