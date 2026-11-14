@@ -1,9 +1,9 @@
 ---
 product_id: s67Yi4cfLG8j93pnu2
+sku_code: s67Yi4cfLG8j93pnu2-01
 brand: BETAFPV
 model: Air65 II
 variant: Freestyle
-sku: RC1-1
 category: Brushless Whoop Quadcopter
 source_url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 source_platform: brand
@@ -31,10 +31,6 @@ specifications:
   Flight Time (with LAVA II 1S 320mAh Batt): '5:00'
   Battery Connector: BT2.0 U Cable Pigtail
   Recommended Battery: LAVA II 1S 280mAh/320mAh
-skus:
-- sku_code: RC1-1
-  attributes:
-    Propulsion System: Freestyle
 sources:
 - type: official
   url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
