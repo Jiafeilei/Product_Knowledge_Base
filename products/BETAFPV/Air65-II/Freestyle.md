@@ -12,8 +12,8 @@ status: unverified
 confidence: 0.95
 specifications:
   Weight:
-    value: 17.8
-    unit: g
+    value: 250g
+  Length: 90mm、Width: 90mm、Height: 40mm
   Frame: Air65 II
   Antenna: Copper pipe
   Wheelbase:
