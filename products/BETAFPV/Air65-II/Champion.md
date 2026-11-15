@@ -1,6 +1,6 @@
 ---
 product_id: euZM9595HDlTKO7gUq
-sku: RC1-3
+sku_code: RC1-3
 brand: BETAFPV
 model: Air65 II
 variant: Champion
