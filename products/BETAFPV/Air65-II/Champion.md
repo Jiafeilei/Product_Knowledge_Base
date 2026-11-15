@@ -1,5 +1,6 @@
 ---
 product_id: euZM9595HDlTKO7gUq
+sku_code: RC1-3
 brand: BETAFPV
 model: Air65 II
 variant: Champion
@@ -34,10 +35,6 @@ specifications:
   Flight Time (with LAVA II 1S 320mAh Batt): '4:40'
   Battery Connector: BT2.0 U Cable Pigtail
   Recommended Battery: LAVA II 1S 280mAh/320mAh
-skus:
-- sku_code: RC1-1
-  attributes:
-    Propulsion System: Champion
 sources:
 - type: official
   url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
@@ -46,7 +43,6 @@ tags:
 - Brushless
 - Whoop
 - FPV
-- Racing
 - Champion
 ---
 # BETAFPV Air65 II Champion
