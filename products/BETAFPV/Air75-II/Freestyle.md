@@ -1,5 +1,6 @@
 ---
 product_id: 7HqPCzcNlirH5xFHch
+sku_code: 7HqPCzcNlirH5xFHch-01
 brand: BETAFPV
 model: Air75 II
 variant: Freestyle
