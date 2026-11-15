@@ -11,9 +11,7 @@ collected_at: '2026-11-07T03:17:31+08:00'
 status: unverified
 confidence: 0.95
 specifications:
-  Weight:
-    value: 16.6
-    unit: g
+  Weight: 16.6g
   Length: 83mm 
   Width: 83mm
   Height: 32mm
