@@ -17,7 +17,7 @@ specifications:
   Height: 32mm
   Frame: Air65 Champion
   Antenna: Whip
-  Wheelbase:65mm
+  Wheelbase: 65mm
   Canopy: Air II Canopy
   FC: Matrix 1S 5IN1 II
   ESC: 1S 12A
