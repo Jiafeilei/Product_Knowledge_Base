@@ -1,4 +1,3 @@
----
 product_id: euZM9595HDlTKO7gUq
 sku: RC1-3
 brand: BETAFPV
@@ -39,7 +38,6 @@ tags:
 - Whoop
 - FPV
 - Champion
----
 
 ## 产品介绍
 
