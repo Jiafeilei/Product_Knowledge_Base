@@ -40,7 +40,6 @@ tags:
 - FPV
 - Champion
 ---
-# BETAFPV Air65 II Champion
 
 ## 产品介绍
 
