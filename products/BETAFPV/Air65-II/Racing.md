@@ -1,9 +1,9 @@
 ---
 product_id: fP1McNLElToXqgH8Jl
+sku: RC1-2
 brand: BETAFPV
 model: Air65 II
 variant: Racing
-sku: RC1-1
 category: Brushless Whoop Quadcopter
 source_url: https://betafpv.com/products/air65-ii-brushless-whoop-quadcopter
 source_platform: brand
